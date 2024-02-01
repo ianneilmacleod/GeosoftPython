@@ -1,15 +1,14 @@
 # Geosoft Projects for Maki Made Workshop
-Projects to support Maki Made maker workshop.
 
-I retired from geoscience in 2018, and I now spend a lot of time in my workshop making things.  While I no longer work with 
+I retired from geoscience in 2018 and I now spend a lot of time in my workshop making things.  While I no longer work with 
 geoscience data, my [Geosoft roots run deep](https://wiki.seg.org/wiki/Ian_MacLeod), 
 particularly using the Geosoft approach to data processing.
 
 Before retirement, I was very motivated to expose more of the Geosoft processing environment to Python. The intention was to allow 
-Geosoft customers to more easily integrate the work they do with Geosoft environment and their own needs for geoscience data processing.
+the Geosoft community to more easily integrate the work they do with Geosoft environment and their own needs for geoscience data processing.
 In particular, Geosoft exposed all data read and write API functions to open access (no license required), and together with
 [Geosoft's freely-available viewer](https://www.seequent.com/products-solutions/geosoft-viewer/), this provides a remarkably useful
-way to deal with geophysical and other spatial data formats.
+way to deal with spatial data formats.
 
 In this project, I am using [Geosoft's GX developer](https://geosoftgxdev.atlassian.net/wiki/spaces/GD/pages/44367874/Python+in+GX+Developer)
 to work with spatial data as I make things in my workshop, where I use 3D printers and 
@@ -34,7 +33,3 @@ Chronology notes
 [Geosoft GX Language reference](https://geosoftgxdev.atlassian.net/wiki/spaces/GXD93/pages/78020870/Geosoft+GX+Language)
 
 [Geosoft Inc. on Github](https://github.com/GeosoftInc)
-# Geosoft Data Processing
-Geosoft related processing scripts for my personal projects.
-These support my Maki Made workshop, where I make things
-as a hobby.
